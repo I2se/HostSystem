@@ -1,0 +1,5 @@
+name: HostSystem
+author: Sothis_
+main: fr.realcraft.host.Host
+version: 1.0.0
+api-version: 1.13

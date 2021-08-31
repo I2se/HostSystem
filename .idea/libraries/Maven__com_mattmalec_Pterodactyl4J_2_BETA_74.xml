@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.mattmalec:Pterodactyl4J:2.BETA_74">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/mattmalec/Pterodactyl4J/2.BETA_74/Pterodactyl4J-2.BETA_74.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/mattmalec/Pterodactyl4J/2.BETA_74/Pterodactyl4J-2.BETA_74-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/mattmalec/Pterodactyl4J/2.BETA_74/Pterodactyl4J-2.BETA_74-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
